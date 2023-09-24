@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mert Söylemez</h1>
+<h1 align="center">Hi, I'm Mert</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=4000&pause=100&color=EEEEEE&background=FF000000&center=true&vCenter=true&width=435&lines=Backend+Developer;Code+Artisan" alt="Typing SVG" /></a>
 
