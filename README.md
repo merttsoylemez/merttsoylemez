@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 
-<a href="(https://github.com/merttsoylemez)"> <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=4000&pause=100&color=EEEEEE&background=FF000000&center=true&vCenter=true&width=435&lines=Backend+Developer;Code+Artisan" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&size=40&duration=4000&pause=100&color=EEEEEE&background=FF000000&center=true&vCenter=true&width=435&lines=Backend+Developer;Code+Artisan" alt="Typing SVG" /></a>
 - 📫 How to reach me **mert.soylemez.34@hotmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mertsoylemez](https://www.linkedin.com/in/mertsoylemez)
